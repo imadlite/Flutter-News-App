@@ -1,5 +1,6 @@
 # news_app
-
+![GitHub Logo](/screenshots/screen1.png)
+![GitHub Logo](/screenshots/screen2.png)
 A new Flutter project.
 
 ## Getting Started
